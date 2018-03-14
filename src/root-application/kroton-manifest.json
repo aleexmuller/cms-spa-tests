@@ -1,0 +1,12 @@
+[
+	{
+		"name": "app1",
+		"file": "../app1/app1.js",
+		"path": "/app1"
+	},
+	{
+		"name": "app2",
+		"file": "../app2/app2.js",
+		"path": "/app2"
+	}
+]
